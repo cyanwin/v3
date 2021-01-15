@@ -6,6 +6,10 @@
             v-model="tab"
             :tabs="tabs"
         />
+        
+        <div class="w-40 h-40 bg-red-100 rounded-full flex items-center justify-center">
+            ddd
+        </div>
     </main>
 </template>
 
@@ -38,6 +42,4 @@
 </script>
 
 <style scoped>
-    .home {
-    }
 </style>
